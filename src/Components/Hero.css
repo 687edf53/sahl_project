@@ -1,0 +1,6 @@
+.hero {
+  height: calc(100vh - 369px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
